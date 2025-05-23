@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm krish dange</h1>
 <h3 align="center">Aspiring Data Scientist learning Python at Debugshala</h3>
-https://imgs.search.brave.com/z1whQQqV4-RCA6t_UcrKE-W-DZJMDohy2PxxZ-nvqHg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTQuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhPR28wTm5kamQy/Smpkemw2Y0d4MWFU/YzNiMjFqYUdadVlu/ZHFkWGMzWkRacmQz/a3diM0JyWVNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishdange&label=Profile%20views&color=0e75b6&style=flat" alt="krishdange" /> </p>
